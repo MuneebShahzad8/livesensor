@@ -1,3 +1,7 @@
 pymongo==4.2.0
+seaborn 
+pandas 
+numpy
+scikit-learn
 
--e . #Editable Mode - Automatically runs setup.py
+#-e . #Editable Mode - Automatically runs setup.py
