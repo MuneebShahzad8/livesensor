@@ -1,7 +1,8 @@
-pymongo==4.2.0
-seaborn 
+pymongo[srv]==4.2.0 
 pandas 
 numpy
 scikit-learn
+pymongo
+python-dotenv
 
 #-e . #Editable Mode - Automatically runs setup.py
